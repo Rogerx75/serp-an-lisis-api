@@ -21,7 +21,7 @@ Sistema profesional de análisis SEO que obtiene datos reales de Google mediante
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tuusuario/serp-analysis-api.git
+git clone https://github.com/Rogerx75/serp-analysis-api.git
 cd serp-analysis-api
 python -m venv serp_env
 source serp_env/bin/activate
