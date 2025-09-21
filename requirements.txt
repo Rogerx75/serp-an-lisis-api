@@ -1,0 +1,12 @@
+# requirements.txt
+flask==2.3.3
+flask-restx==1.1.0
+flask-cors==4.0.0
+werkzeug==2.3.7
+requests==2.31.0
+pandas==2.0.3
+numpy==1.24.3
+python-dotenv==1.0.0
+networkx==3.1
+rapidfuzz==3.5.2
+gunicorn==21.2.0

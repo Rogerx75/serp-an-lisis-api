@@ -1,0 +1,13 @@
+serp_analyzer/
+│
+├── app.py
+├── requirements.txt
+├── config.py
+├── services/
+│   ├── keyword_service.py
+│   ├── serp_service.py
+│   └── clustering_service.py
+├── utils/
+│   ├── helpers.py
+│   └── serp_providers.py
+└── Dockerfile
